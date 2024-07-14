@@ -6,3 +6,7 @@ console.log(number.toFixed(1));
 //! .round() sayıyı normal şekilde yakın kısma yuvalar
 console.log(Math.round(number));
 
+//! .pow() içine aldığı değerlerin kuvvetini döndürür
+console.log(Math.pow(2, 3));
+
+//!
