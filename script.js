@@ -20,3 +20,6 @@ console.log(Math.ceil(number));
 
 //! .floor() yukarı yakın olsada aşağı yuvarlar
 console.log(Math.floor(number));
+
+//! .min() .max() içine aldıkları değerleri karşılaştırır
+console.log(Math.max(5,9,11))
