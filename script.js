@@ -9,4 +9,5 @@ console.log(Math.round(number));
 //! .pow() içine aldığı değerlerin kuvvetini döndürür
 console.log(Math.pow(2, 3));
 
-//!
+//! .sqrt() girilen sayının kökünü bulur
+console.log(Math.sqrt(49));
