@@ -15,4 +15,8 @@ console.log(Math.sqrt(49));
 //! .abs() mutlak değer döndürür
 console.log(Math.abs(-20));
 
-//!
+//! .ceil() nokadan sonrası kaldırır ve yukarı yuvarlar
+console.log(Math.ceil(number));
+
+//! .floor() yukarı yakın olsada aşağı yuvarlar
+console.log(Math.floor(number));
