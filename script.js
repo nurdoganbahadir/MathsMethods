@@ -11,3 +11,8 @@ console.log(Math.pow(2, 3));
 
 //! .sqrt() girilen sayının kökünü bulur
 console.log(Math.sqrt(49));
+
+//! .abs() mutlak değer döndürür
+console.log(Math.abs(-20));
+
+//!
